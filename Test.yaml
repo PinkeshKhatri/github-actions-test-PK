@@ -1,0 +1,10 @@
+name: Pinkesh
+age: 28
+address: "Makarpura:Manjalpur"
+active: true
+key:
+    key: value
+    key2: 33
+    key3:
+        key: value1
+        key2: value2
